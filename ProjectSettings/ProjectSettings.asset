@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< HEAD
   productGUID: f3019708eab0c5843b45cb5bb1089e02
+=======
+  productGUID: 4612e509ce0feff40be7b96b3733168c
+>>>>>>> 03bd3b1ee35a60c603ea250c2fd417c1e617b8ea
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: cluedo(1)
+=======
+  productName: Clue software engineering
+>>>>>>> 03bd3b1ee35a60c603ea250c2fd417c1e617b8ea
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -604,14 +612,22 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: cluedo(1)
+=======
+  metroPackageName: Clue software engineering
+>>>>>>> 03bd3b1ee35a60c603ea250c2fd417c1e617b8ea
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: cluedo(1)
+=======
+  metroApplicationDescription: Clue software engineering
+>>>>>>> 03bd3b1ee35a60c603ea250c2fd417c1e617b8ea
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -682,11 +698,19 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 4428081a-6f28-4f7d-b92b-aa2ab67672c0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: cluedo(1)
   organizationId: jsteuer37
+=======
+  cloudProjectId: 3c0429e3-d712-490a-bad5-d05c79f4279a
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Clue software engineering
+  organizationId: juicygooseylukie
+>>>>>>> 03bd3b1ee35a60c603ea250c2fd417c1e617b8ea
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
