@@ -1,15 +1,12 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Scriptable Objects/CardSystem")]
-public class Card: ScriptableObject
+[CreateAssetMenu(fileName = "Card", menuName = "NewCard")]
+public class NewCard : ScriptableObject
 {
-    public string cardName;
-    public CardType type;
-}
 
-public enum CardType
-{
-    Person,
-    Weapon,
-    Room
+public string CardName;
+
+public enum CardType {PersonCard, WeaponCard, RoomCard}
+public CardType Category;
+
 }
