@@ -41,13 +41,4 @@ public class MainMenu : MonoBehaviour
         else
             Debug.Log("Settings clicked — no settings panel assigned yet.");
     }
-
-    public void OnQuitClicked()
-    {
-#if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false;
-#else
-        Application.Quit();
-#endif
-    }
 }
